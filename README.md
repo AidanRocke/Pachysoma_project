@@ -2,7 +2,7 @@
 [Why don't hexapods gallop?](https://paulispace.com/robotics/2018/10/21/hexapods.html)
 
 tl;dr: My working hypothesis is that (under the influence of sufficiently important gravitational
-effects i.e. 1 Newton or greater) hexapods, regardless of brain wiring, aren't suitable for galloping gaits
+effects i.e. 1 Newton or greater) hexapods, regardless of brain wiring, aren't suitable for galloping gaits. My approach to investigating this hypothesis is to use biomechanics whenever possible and learning algorithms whenever necessary as I believe that exploiting intrinsic physics makes learning easier. Check the NFL theorems to understand what I mean. 
 
 
 ## Supplementary material:
