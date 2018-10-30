@@ -1,4 +1,4 @@
-# royal_hexapod_observatory
+# The Pachysoma project
 [Why don't hexapods gallop?](https://paulispace.com/robotics/2018/10/21/hexapods.html)
 
 tl;dr: My working hypothesis is that (under the influence of sufficiently important gravitational
